@@ -1,0 +1,1194 @@
+URL requested is: login.live.com:443
+Host to connect tologin.live.com
+Cache MISS on login.live.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.msn.com/
+Host to connect towww.msn.com
+Cache MISS on http://www.msn.com/
+URL requested is: http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAhKJwJ.img?h=368&w=522&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1387&y=797
+Host to connect toimg-s-msn-com.akamaized.net
+Caching from: http://www.msn.com/ para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161070295
+Cache MISS on http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAhKJwJ.img?h=368&w=522&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1387&y=797
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+URL requested is: http://pixel.advertising.com/ups/254/occ
+Host to connect topixel.advertising.com
+URL requested is: http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/allowedSizes=728x90,948x250,950x252,940x230,101x1,970x66,970x90,970x250;noperf=1;adclntid=1002;alias=MSNUSEN15;kvmsft_providerid=7hd66fc;kvmsft_rid=760c190fcd514a94b52e1920f05ca266;kvmsft_ext_inv_cd=us;kvmsft_muid=18d2e03a712f65041860e8fa704e64ee;kvmsft_pagetype=homepage;kvpg=msn;kvugc=0;kvmn=MSNUSEN15;kvgrp=161070524;kvismob=2;extmirroring=0;kvtile=1;target=_blank;aduho=-300;grp=161070524
+Host to connect toat.atwola.com
+Cache MISS on http://pixel.advertising.com/ups/254/occ
+Cache MISS on http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/allowedSizes=728x90,948x250,950x252,940x230,101x1,970x66,970x90,970x250;noperf=1;adclntid=1002;alias=MSNUSEN15;kvmsft_providerid=7hd66fc;kvmsft_rid=760c190fcd514a94b52e1920f05ca266;kvmsft_ext_inv_cd=us;kvmsft_muid=18d2e03a712f65041860e8fa704e64ee;kvmsft_pagetype=homepage;kvpg=msn;kvugc=0;kvmn=MSNUSEN15;kvgrp=161070524;kvismob=2;extmirroring=0;kvtile=1;target=_blank;aduho=-300;grp=161070524
+URL requested is: http://g.bing.com/uac/request?allowedSizes=728x90,948x250,950x252,940x230,101x1,970x66,970x90,970x250;noperf=1;adclntid=1002;alias=MSNUSEN15;kvmsft_providerid=7hd66fc;kvmsft_rid=760c190fcd514a94b52e1920f05ca266;kvmsft_ext_inv_cd=us;kvmsft_muid=18d2e03a712f65041860e8fa704e64ee;kvmsft_pagetype=homepage;kvpg=msn;kvugc=0;kvmn=MSNUSEN15;kvgrp=161070524;kvismob=2;extmirroring=0;kvtile=1;target=_blank;aduho=-300;grp=161070524
+Host to connect tog.bing.com
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://c.msn.com/c.gif?udc=true&rid=760c190fcd514a94b52e1920f05ca266&rnd=636027578892102602&rf=&tp=http%253A%252F%252Fwww.msn.com%252F&di=340&lng=en-us&cv.product=prime&pn=startpage&activityId=760c190fcd514a94b52e1920f05ca266&d.dgk=tmx.pc.edge.spartan&d.imd=0
+Host to connect toc.msn.com
+Cache MISS on http://g.bing.com/uac/request?allowedSizes=728x90,948x250,950x252,940x230,101x1,970x66,970x90,970x250;noperf=1;adclntid=1002;alias=MSNUSEN15;kvmsft_providerid=7hd66fc;kvmsft_rid=760c190fcd514a94b52e1920f05ca266;kvmsft_ext_inv_cd=us;kvmsft_muid=18d2e03a712f65041860e8fa704e64ee;kvmsft_pagetype=homepage;kvpg=msn;kvugc=0;kvmn=MSNUSEN15;kvgrp=161070524;kvismob=2;extmirroring=0;kvtile=1;target=_blank;aduho=-300;grp=161070524
+Cache MISS on http://c.msn.com/c.gif?udc=true&rid=760c190fcd514a94b52e1920f05ca266&rnd=636027578892102602&rf=&tp=http%253A%252F%252Fwww.msn.com%252F&di=340&lng=en-us&cv.product=prime&pn=startpage&activityId=760c190fcd514a94b52e1920f05ca266&d.dgk=tmx.pc.edge.spartan&d.imd=0
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+URL requested is: login.live.com:443
+Host to connect tologin.live.com
+URL requested is: http://m.adnxs.com/ttj?member=280&inv_code=MSNUSEN15&imp_id=1467161090|88674521859187652&cb=1467161090&size=728x90&providerid=7hd66fc&ext_inv_code=US&rid=760c190fcd514a94b52e1920f05ca266&external_uid=18d2e03a712f65041860e8fa704e64ee&traffic_source_code=pg%3AMSNUSEN15%3Bp%3A7hd66fc%3Br%3A760c190fcd514a94b52e1920f05ca266
+Host to connect tom.adnxs.com
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Cache MISS on login.live.com:443
+URL requested is: http://b.scorecardresearch.com/b?c1=2&c2=3000001&rn=1467161071103&c7=http%3A%2F%2Fwww.msn.com%2F&c8=MSN.com+-+Hotmail%2C+Outlook%2C+Skype%2C+Bing%2C+Latest+News%2C+Photos+%26+Videos&c9=
+Host to connect tob.scorecardresearch.com
+URL requested is: http://otf.msn.com/c.gif?evt=impr&js=1&rid=760c190fcd514a94b52e1920f05ca266&cts=1467161071104&clid=18D2E03A712F65041860E8FA704E64EE&rf=&cu=http%3A%2F%2Fwww.msn.com%2F&scr=1366x768&bh=555&bw=800&dv.Title1=MSN.com+-+Hotmail%2C+Outlook%2C+Skype%2C+Bing%2C+Latest+News%2C+Photos+%26+Videos&viewType=size2column&di=340&mkt=en-us&pn=startpage&su=http%253A%252F%252Fwww.msn.com%252F&pid=startpage&mv=15&cv.product=prime&flightid=ushpcombo30%2Cmuidflt9cf%2Cal-ar-obvnext%2Cfilter-200c%2Cts-hov-bg%2Cip-ct-10%2Cdhp-nopoll%2Cmuidflt51cf%2Csingleappvertt%2Cal-tb-spc%2Cspt-sapems&exa=ushpcombo30%2Cmuidflt9cf%2Cal-ar-obvnext%2Cfilter-200c%2Cts-hov-bg%2Cip-ct-10%2Cdhp-nopoll%2Cmuidflt51cf%2Csingleappvertt%2Cal-tb-spc%2Cspt-sapems&activityId=760c190fcd514a94b52e1920f05ca266&cvs=Browser&subcvs=homepage&st.dpt=&st.sdpt=&cv.partner=&cv.publcat=&cv.author=&cv.entityId=&cv.entitySrc=&cv.parentId=&provid=&ar=0&d.dgk=tmx.pc.edge.spartan&d.imd=0&tmpl=EAggMo%3A0%3Bsingleappvert%3Bups%3A0%3Binfopane%3A0%3Bcat%3A0%3BIP%3ACb%3BRV%3ACb%3BEP%3A0&isStaticPage=False&pgIdx=&pgTot=&pp=False
+Host to connect tootf.msn.com
+Cache MISS on http://m.adnxs.com/ttj?member=280&inv_code=MSNUSEN15&imp_id=1467161090|88674521859187652&cb=1467161090&size=728x90&providerid=7hd66fc&ext_inv_code=US&rid=760c190fcd514a94b52e1920f05ca266&external_uid=18d2e03a712f65041860e8fa704e64ee&traffic_source_code=pg%3AMSNUSEN15%3Bp%3A7hd66fc%3Br%3A760c190fcd514a94b52e1920f05ca266
+Cache MISS on http://b.scorecardresearch.com/b?c1=2&c2=3000001&rn=1467161071103&c7=http%3A%2F%2Fwww.msn.com%2F&c8=MSN.com+-+Hotmail%2C+Outlook%2C+Skype%2C+Bing%2C+Latest+News%2C+Photos+%26+Videos&c9=
+Cache MISS on http://otf.msn.com/c.gif?evt=impr&js=1&rid=760c190fcd514a94b52e1920f05ca266&cts=1467161071104&clid=18D2E03A712F65041860E8FA704E64EE&rf=&cu=http%3A%2F%2Fwww.msn.com%2F&scr=1366x768&bh=555&bw=800&dv.Title1=MSN.com+-+Hotmail%2C+Outlook%2C+Skype%2C+Bing%2C+Latest+News%2C+Photos+%26+Videos&viewType=size2column&di=340&mkt=en-us&pn=startpage&su=http%253A%252F%252Fwww.msn.com%252F&pid=startpage&mv=15&cv.product=prime&flightid=ushpcombo30%2Cmuidflt9cf%2Cal-ar-obvnext%2Cfilter-200c%2Cts-hov-bg%2Cip-ct-10%2Cdhp-nopoll%2Cmuidflt51cf%2Csingleappvertt%2Cal-tb-spc%2Cspt-sapems&exa=ushpcombo30%2Cmuidflt9cf%2Cal-ar-obvnext%2Cfilter-200c%2Cts-hov-bg%2Cip-ct-10%2Cdhp-nopoll%2Cmuidflt51cf%2Csingleappvertt%2Cal-tb-spc%2Cspt-sapems&activityId=760c190fcd514a94b52e1920f05ca266&cvs=Browser&subcvs=homepage&st.dpt=&st.sdpt=&cv.partner=&cv.publcat=&cv.author=&cv.entityId=&cv.entitySrc=&cv.parentId=&provid=&ar=0&d.dgk=tmx.pc.edge.spartan&d.imd=0&tmpl=EAggMo%3A0%3Bsingleappvert%3Bups%3A0%3Binfopane%3A0%3Bcat%3A0%3BIP%3ACb%3BRV%3ACb%3BEP%3A0&isStaticPage=False&pgIdx=&pgTot=&pp=False
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://ping.chartbeat.net/ping?h=en-us.msn.com&p=%2Fen-us&u=DhINk1DMLqYoB49G6t&d=msn.com&g=42635&g0=homepage&n=0&f=f0005&c=0&x=0&m=0&y=6250&o=800&w=555&j=45&R=1&W=0&I=0&E=0&e=0&r=&t=BdqLWCuVbZTBM8wNiDmkJF5BT2KHH&V=79&i=MSN.com%20-%20Hotmail%2C%20Outlook%2C%20Skype%2C%20Bing%2C%20Latest%20News%2C%20Photos%20%26%20Videos&tz=300&_cdname=eastus&sn=1&EE=0&_
+Host to connect toping.chartbeat.net
+Caching from: http://m.adnxs.com/ttj?member=280&inv_code=MSNUSEN15&imp_id=1467161090|88674521859187652&cb=1467161090&size=728x90&providerid=7hd66fc&ext_inv_code=US&rid=760c190fcd514a94b52e1920f05ca266&external_uid=18d2e03a712f65041860e8fa704e64ee&traffic_source_code=pg%3AMSNUSEN15%3Bp%3A7hd66fc%3Br%3A760c190fcd514a94b52e1920f05ca266 para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161071394
+Cache MISS on http://ping.chartbeat.net/ping?h=en-us.msn.com&p=%2Fen-us&u=DhINk1DMLqYoB49G6t&d=msn.com&g=42635&g0=homepage&n=0&f=f0005&c=0&x=0&m=0&y=6250&o=800&w=555&j=45&R=1&W=0&I=0&E=0&e=0&r=&t=BdqLWCuVbZTBM8wNiDmkJF5BT2KHH&V=79&i=MSN.com%20-%20Hotmail%2C%20Outlook%2C%20Skype%2C%20Bing%2C%20Latest%20News%2C%20Photos%20%26%20Videos&tz=300&_cdname=eastus&sn=1&EE=0&_
+URL requested is: http://otf.msn.com/c.gif?
+Host to connect tootf.msn.com
+Cache MISS on http://otf.msn.com/c.gif?
+URL requested is: gum.criteo.com:443
+Host to connect togum.criteo.com
+URL requested is: http://m.adnxs.com/ttj?ttjb=1&bdc=1467161091&bdh=dwzlFPqiCKXjb9BAPtdP9sw9UB4.&tpuids=eyJ0cHVpZHMiOlt7InByb3ZpZGVyIjoiY3JpdGVvIiwidXNlcl9pZCI6IjE3dk8wRVVicTUwYkxXU29XM2wtUHhvVlBSVXpudHNiIn1dfQ==&view_iv=1&view_pos=400,131&view_ws=800,555&view_vs=0&bdref=http%3A%2F%2Fwww.msn.com%2F&bdtop=true&bdifs=1&bstk=http%3A%2F%2Fwww.msn.com%2F,http%3A%2F%2Fwww.msn.com%2F&&member=280&inv_code=MSNUSEN15&imp_id=1467161090|88674521859187652&cb=1467161090&size=728x90&providerid=7hd66fc&ext_inv_code=US&rid=760c190fcd514a94b52e1920f05ca266&external_uid=18d2e03a712f65041860e8fa704e64ee&traffic_source_code=pg%3AMSNUSEN15%3Bp%3A7hd66fc%3Br%3A760c190fcd514a94b52e1920f05ca266
+Host to connect tom.adnxs.com
+URL requested is: http://rma-api.gravity.com/v1/beacons/log?cbust=484-31&site_guid=14f1a20a34a9356b91dd8b860925478c&action=beacon&user_guid=6954fe69d8528f2ed8466491529de260&referrer=&browser_useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F46.0.2486.0%20Safari%2F537.36%20Edge%2F13.10586&OS=Windows&href=http%3A%2F%2Fwww.msn.com%2F&url=http%3A%2F%2Fwww.msn.com%2F&article_title=MSN.com%20-%20Hotmail%2C%20Outlook%2C%20Skype%2C%20Bing%2C%20Latest%20News%2C%20Photos%20%26amp%3B%20Videos&type=content
+Host to connect torma-api.gravity.com
+URL requested is: connect.facebook.net:443
+Host to connect toconnect.facebook.net
+Cache MISS on connect.facebook.net:443
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Cache MISS on gum.criteo.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+Cache MISS on http://m.adnxs.com/ttj?ttjb=1&bdc=1467161091&bdh=dwzlFPqiCKXjb9BAPtdP9sw9UB4.&tpuids=eyJ0cHVpZHMiOlt7InByb3ZpZGVyIjoiY3JpdGVvIiwidXNlcl9pZCI6IjE3dk8wRVVicTUwYkxXU29XM2wtUHhvVlBSVXpudHNiIn1dfQ==&view_iv=1&view_pos=400,131&view_ws=800,555&view_vs=0&bdref=http%3A%2F%2Fwww.msn.com%2F&bdtop=true&bdifs=1&bstk=http%3A%2F%2Fwww.msn.com%2F,http%3A%2F%2Fwww.msn.com%2F&&member=280&inv_code=MSNUSEN15&imp_id=1467161090|88674521859187652&cb=1467161090&size=728x90&providerid=7hd66fc&ext_inv_code=US&rid=760c190fcd514a94b52e1920f05ca266&external_uid=18d2e03a712f65041860e8fa704e64ee&traffic_source_code=pg%3AMSNUSEN15%3Bp%3A7hd66fc%3Br%3A760c190fcd514a94b52e1920f05ca266
+Caching from: connect.facebook.net:443 para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161071552
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: connect.facebook.net:443
+Host to connect toconnect.facebook.net
+Cache HIT connect.facebook.net:443 returning cache to user
+Cache MISS on http://rma-api.gravity.com/v1/beacons/log?cbust=484-31&site_guid=14f1a20a34a9356b91dd8b860925478c&action=beacon&user_guid=6954fe69d8528f2ed8466491529de260&referrer=&browser_useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F46.0.2486.0%20Safari%2F537.36%20Edge%2F13.10586&OS=Windows&href=http%3A%2F%2Fwww.msn.com%2F&url=http%3A%2F%2Fwww.msn.com%2F&article_title=MSN.com%20-%20Hotmail%2C%20Outlook%2C%20Skype%2C%20Bing%2C%20Latest%20News%2C%20Photos%20%26amp%3B%20Videos&type=content
+URL requested is: http://otf.msn.com/c.gif?
+Host to connect tootf.msn.com
+Cache MISS on http://otf.msn.com/c.gif?
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: gum.criteo.com:443
+Host to connect togum.criteo.com
+Cache MISS on gum.criteo.com:443
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://otf.msn.com/c.gif?
+Host to connect tootf.msn.com
+Cache MISS on http://otf.msn.com/c.gif?
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: gum.criteo.com:443
+Host to connect togum.criteo.com
+Cache MISS on gum.criteo.com:443
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: pr.ybp.yahoo.com:443
+Host to connect topr.ybp.yahoo.com
+Caching from: http://m.adnxs.com/ttj?ttjb=1&bdc=1467161091&bdh=dwzlFPqiCKXjb9BAPtdP9sw9UB4.&tpuids=eyJ0cHVpZHMiOlt7InByb3ZpZGVyIjoiY3JpdGVvIiwidXNlcl9pZCI6IjE3dk8wRVVicTUwYkxXU29XM2wtUHhvVlBSVXpudHNiIn1dfQ==&view_iv=1&view_pos=400,131&view_ws=800,555&view_vs=0&bdref=http%3A%2F%2Fwww.msn.com%2F&bdtop=true&bdifs=1&bstk=http%3A%2F%2Fwww.msn.com%2F,http%3A%2F%2Fwww.msn.com%2F&&member=280&inv_code=MSNUSEN15&imp_id=1467161090|88674521859187652&cb=1467161090&size=728x90&providerid=7hd66fc&ext_inv_code=US&rid=760c190fcd514a94b52e1920f05ca266&external_uid=18d2e03a712f65041860e8fa704e64ee&traffic_source_code=pg%3AMSNUSEN15%3Bp%3A7hd66fc%3Br%3A760c190fcd514a94b52e1920f05ca266 para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161072170
+Cache MISS on pr.ybp.yahoo.com:443
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://cdn.adnxs.com/msft/ContainerTag.js?tag_id=4199206&domain=pixelus.alephd.com&alephd=on&height=90&width=728&user_id=505679733983651281&bid_price=1.184568&price_paid=1.118434&reserve_price=0.01&auction_id=5466774742136583607&publisher_id=43801&site_id=804502&creative_id=47978258&ecp=17.54&user_ip=97.77.25.162&pmt_rule_id=56036&user_city=Arlington&user_country=US&use_cookies=1&carrier_id=358&referer_url=http%3A%2F%2Fwww.msn.com%2F
+Host to connect tocdn.adnxs.com
+Cache MISS on http://cdn.adnxs.com/msft/ContainerTag.js?tag_id=4199206&domain=pixelus.alephd.com&alephd=on&height=90&width=728&user_id=505679733983651281&bid_price=1.184568&price_paid=1.118434&reserve_price=0.01&auction_id=5466774742136583607&publisher_id=43801&site_id=804502&creative_id=47978258&ecp=17.54&user_ip=97.77.25.162&pmt_rule_id=56036&user_city=Arlington&user_country=US&use_cookies=1&carrier_id=358&referer_url=http%3A%2F%2Fwww.msn.com%2F
+URL requested is: http://odb.outbrain.com/utils/get?settings=true&recs=true&key=MSNUSGLOO9FDG30J7ND6CBC2D&apv=false&format=json&callback=OBMS.dataInfoPaneReturn&ref=&url=http%3A%2F%2Fmsn.com%2Fen-us%2F&sig=OBSIG57158&widgetJSId=APP_16&idx=0&rand=79489
+Host to connect toodb.outbrain.com
+Cache MISS on http://odb.outbrain.com/utils/get?settings=true&recs=true&key=MSNUSGLOO9FDG30J7ND6CBC2D&apv=false&format=json&callback=OBMS.dataInfoPaneReturn&ref=&url=http%3A%2F%2Fmsn.com%2Fen-us%2F&sig=OBSIG57158&widgetJSId=APP_16&idx=0&rand=79489
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://pixelus.alephd.com/post_msft?GAa8=4199206&e9iH=505679733983651281&2jSB=1.184568&-Z06=1.118434&b6lE=0.01&vKcZ=5466774742136583607&Dsph=43801&L4DK=804502&0ZGY=47978258&wziz=17.54&DH5k=97.77.25.162&7Z7R=56036&PASL=Arlington&9VuX=US&Fsrl=1&aNVl=358&rZzC=http%3A%2F%2Fwww.msn.com%2F
+Host to connect topixelus.alephd.com
+Cache MISS on http://pixelus.alephd.com/post_msft?GAa8=4199206&e9iH=505679733983651281&2jSB=1.184568&-Z06=1.118434&b6lE=0.01&vKcZ=5466774742136583607&Dsph=43801&L4DK=804502&0ZGY=47978258&wziz=17.54&DH5k=97.77.25.162&7Z7R=56036&PASL=Arlington&9VuX=US&Fsrl=1&aNVl=358&rZzC=http%3A%2F%2Fwww.msn.com%2F
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://nym1-ib.adnxs.com/vevent?e=wqT_3QLJEvT1BEkJAAADANYABQEIhLTMuwUQt-uD4Z7V-O5LGNHL1pGfoaKCByABKi0JO2H8aBvl8T8Rnu-nxku38T8ZCtejcD2KMUAh9ihch3jD8j8pAAAAoP3z8j8wpqaAAjiYAkDfDUi3AVCSrvAWWOS1A2AAaJS1A3i5nQOAAQGKAQNVU0SSAQNVU0SYAdgFoAFaqAEAsAEAuAECwAEFyAEC0AEA2AEA4AEA8AEA-gEJTVNOVVNFTjE1kgLrB1VjQ0ZuSVpSektabENRLTZldW5FWmJ5X2QzSjFkTENHSVdJdzc2aXFTSjdDejRYbW1yTXZYa21BODFWcHpWYzlkNFRpLUlnTjFyWWFManFDallLU3JYVS1VM2pNUGd5My1GQ25nLXY0Ukp2VmthMjViUjRXMWpxRTQ5OXliSlJXZDlyOTdfS0h3a0w4OWd6cUplcWtxenF3aXZQYmVFWjdxdkdMQWJaNXNJNF9WTG1ZcDJCUFBjVkVNNU1NRDk4eGFCbFpSN1VOZjJxcm9uM2VNOGNYZGdkWlZJN0pkR3lETTBKQTlxMDZrRDY1M3MtQTQwRF95Y2ZXSktmZ09IaHlOOTIzRHNWUVdtTlZIbFlUM0tzY0ZMVmZXT3djcGM5UHVFNjhTc2JJRWVVYjJUOXIxWFF0Qk5raHQxaUdyODFfVWZZX1ZMaHR5Qk5tYjQzd1piRW1LdUhjb183Wm5uYzh1ZTl2NVIwWno5RDlZS1p4cTZKUFcxSmZSUWd3MFRiZzdkc2lnMFdMbk5BMkNHSUd4TFl3VGZUZ1JaenBnb0FDQ0I4TFR2ZDBETF9wQkhrd1hzSGg4ZURQQlFmOWZGWXBta3Y1enFVT1dmbGZZNTJCam5tRjZmaXF6LWhJY1RHQnZSSWRWWlF2Z0JCMnhGeTdzTDlxUjZUREFRd0ppTHhTNHFyQUV3V0V6LS01RTNldU9zUmRwb2U0RTNkVzR3UnhvTUR2NkpLLUl0S0pRUVA4dy1rNUNjRUJSbUhGYklTUXZuUV81X1VuR25JVUJWcndjYnlXaW1SR2FVejF3dDViMGdLVzE3TUU3MFdHd1Rwak41ZjlSZTFINUs5Y2xEc044YkRaVnZ2ZmFGVGE0dzIyTnlLUUZTZ1NZTGdsa0x4MEdRRHhrQzM3dW56RmtHTTIxUlRHM0NhbEJKM0I3ZUU1bXl0X2lXUVRZWGcxNkFDdG0wVkk3WnVaeGxsNjJIWTdLQWZadFRWTGdqS25ycXVCTDVSNWNPQi1mZ3dWcG05WVMtRUxCYUNwLWtWeHZfNjFPU0xZbEszMFlta3RHVWthQnNLczB1VVVfRHp4R2IwWHF1aUpDMnpGMm5SNFNBWUJnWXpJZUNMVThsVzZqeUdKV1NhcTg0QlhGTHRWbzZzSS1TMHBieWNJdWQtU1AwN2tHSEJoV2RPRVViZGZjOHZWR05ERkFUZGN5OG9WQkJnQVJ2MUpPaEtEMXBzSThNRlQ5M3BEbElVRUJzS1Q0eHJYUVhyVUd2WTVxdmVTM2w4Q1Z0MkZFWU5tOURWd3hLVmtiSFpLaHoyZ1dRMWVfVFpvaHFMaGp1czJ6NWOyAiAxOGQyZTAzYTcxMmY2NTA0MTg2MGU4ZmE3MDRlNjRlZdgC3kPgAvD7IuoCE2h0dHA6Ly93d3cubXNuLmNvbS_yAvgHCghJTVBfREFUQRLrB1X-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgSmPgTwaIADAIgDAZADAJgDAKADAaoDALADALgDAMADrALIAwDYA5T_EOADAOgDAPgDAYAEAJIEBC90dGqYBACiBAw5Ny43Ny4yNS4xNjKoBKr6CLIECAgAEAAYACAAuAQAwASFvGvIBADaBAIIAQ..&s=a6763ca27c50f6cf4428315ae09b5182fe6b40e6&referrer=http%3A%2F%2Fwww.msn.com%2F&type=nv&nvt=5&sid=1467161073060768213&sw=1366&sh=768&pw=800&ph=6250&ww=800&wh=555&ft=2&sv=42&tv=view5-1&ua=edge&pl=win&x=1467161073060768213,429999,v,win,edge,view5-1,0,,2
+Host to connect tonym1-ib.adnxs.com
+URL requested is: http://ib.adnxs.com/async_usersync?cbfn=AN_async_load
+Host to connect toib.adnxs.com
+Caching from: http://odb.outbrain.com/utils/get?settings=true&recs=true&key=MSNUSGLOO9FDG30J7ND6CBC2D&apv=false&format=json&callback=OBMS.dataInfoPaneReturn&ref=&url=http%3A%2F%2Fmsn.com%2Fen-us%2F&sig=OBSIG57158&widgetJSId=APP_16&idx=0&rand=79489 para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161073154
+URL requested is: http://images.outbrain.com/imageserver/v2/s/MzZW/a/1I3TWj/44Cpj/0/1I3TWj-rec-206x250.jpg
+Host to connect toimages.outbrain.com
+URL requested is: http://images.outbrain.com/imageserver/v2/s/1ndW/a/1BwhdX/3GwkD/0/1BwhdX-rec-206x250.jpg
+Host to connect toimages.outbrain.com
+URL requested is: http://images.outbrain.com/imageserver/v2/s/N0QN/a/1IsDyu/49hIe/0/1IsDyu-rec-206x250.jpg
+Host to connect toimages.outbrain.com
+Cache MISS on http://ib.adnxs.com/async_usersync?cbfn=AN_async_load
+Cache MISS on http://nym1-ib.adnxs.com/vevent?e=wqT_3QLJEvT1BEkJAAADANYABQEIhLTMuwUQt-uD4Z7V-O5LGNHL1pGfoaKCByABKi0JO2H8aBvl8T8Rnu-nxku38T8ZCtejcD2KMUAh9ihch3jD8j8pAAAAoP3z8j8wpqaAAjiYAkDfDUi3AVCSrvAWWOS1A2AAaJS1A3i5nQOAAQGKAQNVU0SSAQNVU0SYAdgFoAFaqAEAsAEAuAECwAEFyAEC0AEA2AEA4AEA8AEA-gEJTVNOVVNFTjE1kgLrB1VjQ0ZuSVpSektabENRLTZldW5FWmJ5X2QzSjFkTENHSVdJdzc2aXFTSjdDejRYbW1yTXZYa21BODFWcHpWYzlkNFRpLUlnTjFyWWFManFDallLU3JYVS1VM2pNUGd5My1GQ25nLXY0Ukp2VmthMjViUjRXMWpxRTQ5OXliSlJXZDlyOTdfS0h3a0w4OWd6cUplcWtxenF3aXZQYmVFWjdxdkdMQWJaNXNJNF9WTG1ZcDJCUFBjVkVNNU1NRDk4eGFCbFpSN1VOZjJxcm9uM2VNOGNYZGdkWlZJN0pkR3lETTBKQTlxMDZrRDY1M3MtQTQwRF95Y2ZXSktmZ09IaHlOOTIzRHNWUVdtTlZIbFlUM0tzY0ZMVmZXT3djcGM5UHVFNjhTc2JJRWVVYjJUOXIxWFF0Qk5raHQxaUdyODFfVWZZX1ZMaHR5Qk5tYjQzd1piRW1LdUhjb183Wm5uYzh1ZTl2NVIwWno5RDlZS1p4cTZKUFcxSmZSUWd3MFRiZzdkc2lnMFdMbk5BMkNHSUd4TFl3VGZUZ1JaenBnb0FDQ0I4TFR2ZDBETF9wQkhrd1hzSGg4ZURQQlFmOWZGWXBta3Y1enFVT1dmbGZZNTJCam5tRjZmaXF6LWhJY1RHQnZSSWRWWlF2Z0JCMnhGeTdzTDlxUjZUREFRd0ppTHhTNHFyQUV3V0V6LS01RTNldU9zUmRwb2U0RTNkVzR3UnhvTUR2NkpLLUl0S0pRUVA4dy1rNUNjRUJSbUhGYklTUXZuUV81X1VuR25JVUJWcndjYnlXaW1SR2FVejF3dDViMGdLVzE3TUU3MFdHd1Rwak41ZjlSZTFINUs5Y2xEc044YkRaVnZ2ZmFGVGE0dzIyTnlLUUZTZ1NZTGdsa0x4MEdRRHhrQzM3dW56RmtHTTIxUlRHM0NhbEJKM0I3ZUU1bXl0X2lXUVRZWGcxNkFDdG0wVkk3WnVaeGxsNjJIWTdLQWZadFRWTGdqS25ycXVCTDVSNWNPQi1mZ3dWcG05WVMtRUxCYUNwLWtWeHZfNjFPU0xZbEszMFlta3RHVWthQnNLczB1VVVfRHp4R2IwWHF1aUpDMnpGMm5SNFNBWUJnWXpJZUNMVThsVzZqeUdKV1NhcTg0QlhGTHRWbzZzSS1TMHBieWNJdWQtU1AwN2tHSEJoV2RPRVViZGZjOHZWR05ERkFUZGN5OG9WQkJnQVJ2MUpPaEtEMXBzSThNRlQ5M3BEbElVRUJzS1Q0eHJYUVhyVUd2WTVxdmVTM2w4Q1Z0MkZFWU5tOURWd3hLVmtiSFpLaHoyZ1dRMWVfVFpvaHFMaGp1czJ6NWOyAiAxOGQyZTAzYTcxMmY2NTA0MTg2MGU4ZmE3MDRlNjRlZdgC3kPgAvD7IuoCE2h0dHA6Ly93d3cubXNuLmNvbS_yAvgHCghJTVBfREFUQRLrB1X-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgSmPgTwaIADAIgDAZADAJgDAKADAaoDALADALgDAMADrALIAwDYA5T_EOADAOgDAPgDAYAEAJIEBC90dGqYBACiBAw5Ny43Ny4yNS4xNjKoBKr6CLIECAgAEAAYACAAuAQAwASFvGvIBADaBAIIAQ..&s=a6763ca27c50f6cf4428315ae09b5182fe6b40e6&referrer=http%3A%2F%2Fwww.msn.com%2F&type=nv&nvt=5&sid=1467161073060768213&sw=1366&sh=768&pw=800&ph=6250&ww=800&wh=555&ft=2&sv=42&tv=view5-1&ua=edge&pl=win&x=1467161073060768213,429999,v,win,edge,view5-1,0,,2
+Cache MISS on http://images.outbrain.com/imageserver/v2/s/N0QN/a/1IsDyu/49hIe/0/1IsDyu-rec-206x250.jpg
+Cache MISS on http://images.outbrain.com/imageserver/v2/s/1ndW/a/1BwhdX/3GwkD/0/1BwhdX-rec-206x250.jpg
+Cache MISS on http://images.outbrain.com/imageserver/v2/s/MzZW/a/1I3TWj/44Cpj/0/1I3TWj-rec-206x250.jpg
+URL requested is: http://odb.outbrain.com/utils/get?settings=true&recs=true&key=MSNUSGLOO9FDG30J7ND6CBC2D&apv=false&format=json&callback=OBMS.dataInfoPaneReturn&ref=&url=http%3A%2F%2Fmsn.com%2Fen-us%2F&sig=OBSIG57158&widgetJSId=APP_18&idx=1&rand=14543
+Host to connect toodb.outbrain.com
+URL requested is: http://g.bing.com/uac/response?allowedSizes=728x90,948x250,950x252,940x230,101x1,970x66,970x90,970x250;noperf=1;adclntid=1002;alias=MSNUSEN15;kvmsft_providerid=7hd66fc;kvmsft_rid=760c190fcd514a94b52e1920f05ca266;kvmsft_ext_inv_cd=us;kvmsft_muid=18d2e03a712f65041860e8fa704e64ee;kvmsft_pagetype=homepage;kvpg=msn;kvugc=0;kvmn=MSNUSEN15;kvgrp=161070524;kvismob=2;extmirroring=0;kvtile=1;target=_blank;aduho=-300;grp=161070524
+Host to connect tog.bing.com
+Cache MISS on http://odb.outbrain.com/utils/get?settings=true&recs=true&key=MSNUSGLOO9FDG30J7ND6CBC2D&apv=false&format=json&callback=OBMS.dataInfoPaneReturn&ref=&url=http%3A%2F%2Fmsn.com%2Fen-us%2F&sig=OBSIG57158&widgetJSId=APP_18&idx=1&rand=14543
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Caching from: http://images.outbrain.com/imageserver/v2/s/N0QN/a/1IsDyu/49hIe/0/1IsDyu-rec-206x250.jpg para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161073382
+Caching from: http://images.outbrain.com/imageserver/v2/s/MzZW/a/1I3TWj/44Cpj/0/1I3TWj-rec-206x250.jpg para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161073458
+Cache MISS on http://g.bing.com/uac/response?allowedSizes=728x90,948x250,950x252,940x230,101x1,970x66,970x90,970x250;noperf=1;adclntid=1002;alias=MSNUSEN15;kvmsft_providerid=7hd66fc;kvmsft_rid=760c190fcd514a94b52e1920f05ca266;kvmsft_ext_inv_cd=us;kvmsft_muid=18d2e03a712f65041860e8fa704e64ee;kvmsft_pagetype=homepage;kvpg=msn;kvugc=0;kvmn=MSNUSEN15;kvgrp=161070524;kvismob=2;extmirroring=0;kvtile=1;target=_blank;aduho=-300;grp=161070524
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Caching from: http://ib.adnxs.com/async_usersync?cbfn=AN_async_load para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161073570
+URL requested is: http://ih.adscale.de/adscale-ih/tpui?tpid=75&tpuid=505679733983651281
+Host to connect toih.adscale.de
+URL requested is: http://sync.search.spotxchange.com/partner?adv_id=7715&uid=505679733983651281
+Host to connect tosync.search.spotxchange.com
+URL requested is: http://r.turn.com/r/bd?ddc=1&pid=54&cver=1&uid=505679733983651281
+Host to connect tor.turn.com
+URL requested is: http://cms.quantserve.com/dpixel?source=appnexus&eid=5&id=505679733983651281
+URL requested is: http://pm.w55c.net/ping_match.gif?ei=AN&rurl=http://ib.adnxs.com/setuid?entity=17&code=_wfivefivec_
+Host to connect tocms.quantserve.com
+Host to connect topm.w55c.net
+URL requested is: http://d.chango.com/collector/mapping?partner=AppNexus&partner_uid=505679733983651281
+Host to connect tod.chango.com
+URL requested is: http://dis.criteo.com/dis/usersync.aspx?r=7&p=3&cp=appnexus&cu=1&url=http%3A%2F%2Fib.adnxs.com%2Fsetuid%3Fentity%3D52%26code%3D%7Bcriteo_userid%7D%26seg%3D5311899
+Host to connect todis.criteo.com
+URL requested is: http://p.rfihub.com/cm?in=1&pub=345&userid=505679733983651281
+Host to connect top.rfihub.com
+URL requested is: http://um.simpli.fi/an
+Host to connect toum.simpli.fi
+Caching from: http://odb.outbrain.com/utils/get?settings=true&recs=true&key=MSNUSGLOO9FDG30J7ND6CBC2D&apv=false&format=json&callback=OBMS.dataInfoPaneReturn&ref=&url=http%3A%2F%2Fmsn.com%2Fen-us%2F&sig=OBSIG57158&widgetJSId=APP_18&idx=1&rand=14543 para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161073627
+Cache MISS on http://sync.search.spotxchange.com/partner?adv_id=7715&uid=505679733983651281
+Cache MISS on http://cms.quantserve.com/dpixel?source=appnexus&eid=5&id=505679733983651281
+URL requested is: http://dsum.casalemedia.com/rum?cm_dsp_id=46&external_user_id=505679733983651281
+Host to connect todsum.casalemedia.com
+Cache MISS on http://d.chango.com/collector/mapping?partner=AppNexus&partner_uid=505679733983651281
+Cache MISS on http://pm.w55c.net/ping_match.gif?ei=AN&rurl=http://ib.adnxs.com/setuid?entity=17&code=_wfivefivec_
+Cache MISS on http://r.turn.com/r/bd?ddc=1&pid=54&cver=1&uid=505679733983651281
+Cache MISS on http://dis.criteo.com/dis/usersync.aspx?r=7&p=3&cp=appnexus&cu=1&url=http%3A%2F%2Fib.adnxs.com%2Fsetuid%3Fentity%3D52%26code%3D%7Bcriteo_userid%7D%26seg%3D5311899
+Cache MISS on http://um.simpli.fi/an
+Cache MISS on http://ih.adscale.de/adscale-ih/tpui?tpid=75&tpuid=505679733983651281
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Cache MISS on http://dsum.casalemedia.com/rum?cm_dsp_id=46&external_user_id=505679733983651281
+Cache MISS on http://p.rfihub.com/cm?in=1&pub=345&userid=505679733983651281
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Caching from: http://d.chango.com/collector/mapping?partner=AppNexus&partner_uid=505679733983651281 para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161073775
+URL requested is: http://an.d.chango.com/m/an2
+Host to connect toan.d.chango.com
+URL requested is: http://ib.adnxs.com/setuid?entity=66&code=D0916132BE69C7561AA93A4E02050C2F
+Host to connect toib.adnxs.com
+Caching from: http://pm.w55c.net/ping_match.gif?ei=AN&rurl=http://ib.adnxs.com/setuid?entity=17&code=_wfivefivec_ para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161073790
+URL requested is: http://ib.adnxs.com/setuid?entity=17&code=wWAdnl2Y1AwQwe5
+Host to connect toib.adnxs.com
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://otf.msn.com/c.gif?
+Host to connect tootf.msn.com
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Cache MISS on http://otf.msn.com/c.gif?
+Cache MISS on http://an.d.chango.com/m/an2
+Cache MISS on http://ib.adnxs.com/setuid?entity=66&code=D0916132BE69C7561AA93A4E02050C2F
+Cache MISS on http://ib.adnxs.com/setuid?entity=17&code=wWAdnl2Y1AwQwe5
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Caching from: http://p.rfihub.com/cm?in=1&pub=345&userid=505679733983651281 para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161073886
+URL requested is: http://ib.adnxs.com/pxj?bidder=18&seg=378601&action=setuids('768215584824485671','');&redir=
+Host to connect toib.adnxs.com
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://ib.adnxs.com/setuid?code=17dac75e-d73d-11e5-ab63-00259035eb94&entity=62
+Host to connect toib.adnxs.com
+Cache MISS on http://ib.adnxs.com/pxj?bidder=18&seg=378601&action=setuids('768215584824485671','');&redir=
+Cache MISS on http://ib.adnxs.com/setuid?code=17dac75e-d73d-11e5-ab63-00259035eb94&entity=62
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Caching from: http://ib.adnxs.com/setuid?code=17dac75e-d73d-11e5-ab63-00259035eb94&entity=62 para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161074203
+URL requested is: login.live.com:443
+Host to connect tologin.live.com
+Cache MISS on login.live.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: www.facebook.com:443
+Host to connect towww.facebook.com
+URL requested is: syndication.twitter.com:443
+Host to connect tosyndication.twitter.com
+Cache MISS on www.facebook.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: www.facebook.com:443
+Host to connect towww.facebook.com
+Cache MISS on syndication.twitter.com:443
+Cache MISS on www.facebook.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+URL requested is: www.facebook.com:443
+Host to connect towww.facebook.com
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Cache MISS on www.facebook.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+URL requested is: http://ping.chartbeat.net/ping?h=en-us.msn.com&p=%2Fen-us&u=DhINk1DMLqYoB49G6t&d=msn.com&g=42635&g0=homepage&n=0&f=f0005&c=0.25&x=0&m=0&y=6372&o=800&w=555&j=30&R=1&W=0&I=0&E=4&e=4&r=&t=BdqLWCuVbZTBM8wNiDmkJF5BT2KHH&V=79&tz=300&_cdname=eastus&sn=2&eM=3000&EE=4&_
+Host to connect toping.chartbeat.net
+Cache MISS on http://ping.chartbeat.net/ping?h=en-us.msn.com&p=%2Fen-us&u=DhINk1DMLqYoB49G6t&d=msn.com&g=42635&g0=homepage&n=0&f=f0005&c=0.25&x=0&m=0&y=6372&o=800&w=555&j=30&R=1&W=0&I=0&E=4&e=4&r=&t=BdqLWCuVbZTBM8wNiDmkJF5BT2KHH&V=79&tz=300&_cdname=eastus&sn=2&eM=3000&EE=4&_
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: iecvlist.microsoft.com:443
+Host to connect toiecvlist.microsoft.com
+Cache MISS on iecvlist.microsoft.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: iecvlist.microsoft.com:443
+Host to connect toiecvlist.microsoft.com
+Cache MISS on iecvlist.microsoft.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: iecvlist.microsoft.com:443
+Host to connect toiecvlist.microsoft.com
+Cache MISS on iecvlist.microsoft.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.google.com/
+Host to connect towww.google.com
+Cache MISS on http://www.google.com/
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+URL requested is: www.google.com:443
+Host to connect towww.google.com
+Cache MISS on www.google.com:443
+URL requested is: http://ping.chartbeat.net/ping?h=en-us.msn.com&p=%2Fen-us&u=DhINk1DMLqYoB49G6t&d=msn.com&g=42635&g0=homepage&n=0&f=f0005&c=0.5&x=0&m=0&y=6372&o=800&w=555&j=45&R=0&W=0&I=1&E=4&e=0&r=&t=BdqLWCuVbZTBM8wNiDmkJF5BT2KHH&V=79&tz=300&_cdname=eastus&sn=3&EE=4&_
+Host to connect toping.chartbeat.net
+Cache MISS on http://ping.chartbeat.net/ping?h=en-us.msn.com&p=%2Fen-us&u=DhINk1DMLqYoB49G6t&d=msn.com&g=42635&g0=homepage&n=0&f=f0005&c=0.5&x=0&m=0&y=6372&o=800&w=555&j=45&R=0&W=0&I=1&E=4&e=0&r=&t=BdqLWCuVbZTBM8wNiDmkJF5BT2KHH&V=79&tz=300&_cdname=eastus&sn=3&EE=4&_
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.bing.com/as/init?cc=us&pt=IcePrime_HomePage&refig=760c190fcd514a94b52e1920f05ca266
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/as/init?cc=us&pt=IcePrime_HomePage&refig=760c190fcd514a94b52e1920f05ca266
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.bing.com/AS/Suggestions?pt=iceprime_homepage&mkt=en-us&qry=&cp=0&contentWidth=306&o=hs&css=1&cvid=760c190fcd514a94b52e1920f05ca266
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/AS/Suggestions?pt=iceprime_homepage&mkt=en-us&qry=&cp=0&contentWidth=306&o=hs&css=1&cvid=760c190fcd514a94b52e1920f05ca266
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.msn.com/fd/ls/GLinkPing.aspx?IG=061294776BAB4A59AA2ED15B9CC5681E&ID=autosuggest,5003.1&PR={%22i%22:%22m%22}
+Host to connect towww.msn.com
+Cache MISS on http://www.msn.com/fd/ls/GLinkPing.aspx?IG=061294776BAB4A59AA2ED15B9CC5681E&ID=autosuggest,5003.1&PR={%22i%22:%22m%22}
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://nym1-ib.adnxs.com/vevent?e=wqT_3QLJEvT1BEkJAAADANYABQEIhLTMuwUQt-uD4Z7V-O5LGNHL1pGfoaKCByABKi0JO2H8aBvl8T8Rnu-nxku38T8ZCtejcD2KMUAh9ihch3jD8j8pAAAAoP3z8j8wpqaAAjiYAkDfDUi3AVCSrvAWWOS1A2AAaJS1A3i5nQOAAQGKAQNVU0SSAQNVU0SYAdgFoAFaqAEAsAEAuAECwAEFyAEC0AEA2AEA4AEA8AEA-gEJTVNOVVNFTjE1kgLrB1VjQ0ZuSVpSektabENRLTZldW5FWmJ5X2QzSjFkTENHSVdJdzc2aXFTSjdDejRYbW1yTXZYa21BODFWcHpWYzlkNFRpLUlnTjFyWWFManFDallLU3JYVS1VM2pNUGd5My1GQ25nLXY0Ukp2VmthMjViUjRXMWpxRTQ5OXliSlJXZDlyOTdfS0h3a0w4OWd6cUplcWtxenF3aXZQYmVFWjdxdkdMQWJaNXNJNF9WTG1ZcDJCUFBjVkVNNU1NRDk4eGFCbFpSN1VOZjJxcm9uM2VNOGNYZGdkWlZJN0pkR3lETTBKQTlxMDZrRDY1M3MtQTQwRF95Y2ZXSktmZ09IaHlOOTIzRHNWUVdtTlZIbFlUM0tzY0ZMVmZXT3djcGM5UHVFNjhTc2JJRWVVYjJUOXIxWFF0Qk5raHQxaUdyODFfVWZZX1ZMaHR5Qk5tYjQzd1piRW1LdUhjb183Wm5uYzh1ZTl2NVIwWno5RDlZS1p4cTZKUFcxSmZSUWd3MFRiZzdkc2lnMFdMbk5BMkNHSUd4TFl3VGZUZ1JaenBnb0FDQ0I4TFR2ZDBETF9wQkhrd1hzSGg4ZURQQlFmOWZGWXBta3Y1enFVT1dmbGZZNTJCam5tRjZmaXF6LWhJY1RHQnZSSWRWWlF2Z0JCMnhGeTdzTDlxUjZUREFRd0ppTHhTNHFyQUV3V0V6LS01RTNldU9zUmRwb2U0RTNkVzR3UnhvTUR2NkpLLUl0S0pRUVA4dy1rNUNjRUJSbUhGYklTUXZuUV81X1VuR25JVUJWcndjYnlXaW1SR2FVejF3dDViMGdLVzE3TUU3MFdHd1Rwak41ZjlSZTFINUs5Y2xEc044YkRaVnZ2ZmFGVGE0dzIyTnlLUUZTZ1NZTGdsa0x4MEdRRHhrQzM3dW56RmtHTTIxUlRHM0NhbEJKM0I3ZUU1bXl0X2lXUVRZWGcxNkFDdG0wVkk3WnVaeGxsNjJIWTdLQWZadFRWTGdqS25ycXVCTDVSNWNPQi1mZ3dWcG05WVMtRUxCYUNwLWtWeHZfNjFPU0xZbEszMFlta3RHVWthQnNLczB1VVVfRHp4R2IwWHF1aUpDMnpGMm5SNFNBWUJnWXpJZUNMVThsVzZqeUdKV1NhcTg0QlhGTHRWbzZzSS1TMHBieWNJdWQtU1AwN2tHSEJoV2RPRVViZGZjOHZWR05ERkFUZGN5OG9WQkJnQVJ2MUpPaEtEMXBzSThNRlQ5M3BEbElVRUJzS1Q0eHJYUVhyVUd2WTVxdmVTM2w4Q1Z0MkZFWU5tOURWd3hLVmtiSFpLaHoyZ1dRMWVfVFpvaHFMaGp1czJ6NWOyAiAxOGQyZTAzYTcxMmY2NTA0MTg2MGU4ZmE3MDRlNjRlZdgC3kPgAvD7IuoCE2h0dHA6Ly93d3cubXNuLmNvbS_yAvgHCghJTVBfREFUQRLrB1X-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgSmPgTwaIADAIgDAZADAJgDAKADAaoDALADALgDAMADrALIAwDYA5T_EOADAOgDAPgDAYAEAJIEBC90dGqYBACiBAw5Ny43Ny4yNS4xNjKoBKr6CLIECAgAEAAYACAAuAQAwASFvGvIBADaBAIIAQ..&s=a6763ca27c50f6cf4428315ae09b5182fe6b40e6&referrer=http%3A%2F%2Fwww.msn.com%2F&type=nm&nmt=3&pd=7.69&d=39.24&mpx=337&mpy=72&mtx=621&mty=554&sid=1467161073060768213&sw=1366&sh=768&pw=800&ph=6372&ww=800&wh=555&ft=2&sv=42&tv=view5-1&ua=edge&pl=win&x=1467161073060768213,429999,v,win,edge,view5-1,0,,2
+Host to connect tonym1-ib.adnxs.com
+Cache MISS on http://nym1-ib.adnxs.com/vevent?e=wqT_3QLJEvT1BEkJAAADANYABQEIhLTMuwUQt-uD4Z7V-O5LGNHL1pGfoaKCByABKi0JO2H8aBvl8T8Rnu-nxku38T8ZCtejcD2KMUAh9ihch3jD8j8pAAAAoP3z8j8wpqaAAjiYAkDfDUi3AVCSrvAWWOS1A2AAaJS1A3i5nQOAAQGKAQNVU0SSAQNVU0SYAdgFoAFaqAEAsAEAuAECwAEFyAEC0AEA2AEA4AEA8AEA-gEJTVNOVVNFTjE1kgLrB1VjQ0ZuSVpSektabENRLTZldW5FWmJ5X2QzSjFkTENHSVdJdzc2aXFTSjdDejRYbW1yTXZYa21BODFWcHpWYzlkNFRpLUlnTjFyWWFManFDallLU3JYVS1VM2pNUGd5My1GQ25nLXY0Ukp2VmthMjViUjRXMWpxRTQ5OXliSlJXZDlyOTdfS0h3a0w4OWd6cUplcWtxenF3aXZQYmVFWjdxdkdMQWJaNXNJNF9WTG1ZcDJCUFBjVkVNNU1NRDk4eGFCbFpSN1VOZjJxcm9uM2VNOGNYZGdkWlZJN0pkR3lETTBKQTlxMDZrRDY1M3MtQTQwRF95Y2ZXSktmZ09IaHlOOTIzRHNWUVdtTlZIbFlUM0tzY0ZMVmZXT3djcGM5UHVFNjhTc2JJRWVVYjJUOXIxWFF0Qk5raHQxaUdyODFfVWZZX1ZMaHR5Qk5tYjQzd1piRW1LdUhjb183Wm5uYzh1ZTl2NVIwWno5RDlZS1p4cTZKUFcxSmZSUWd3MFRiZzdkc2lnMFdMbk5BMkNHSUd4TFl3VGZUZ1JaenBnb0FDQ0I4TFR2ZDBETF9wQkhrd1hzSGg4ZURQQlFmOWZGWXBta3Y1enFVT1dmbGZZNTJCam5tRjZmaXF6LWhJY1RHQnZSSWRWWlF2Z0JCMnhGeTdzTDlxUjZUREFRd0ppTHhTNHFyQUV3V0V6LS01RTNldU9zUmRwb2U0RTNkVzR3UnhvTUR2NkpLLUl0S0pRUVA4dy1rNUNjRUJSbUhGYklTUXZuUV81X1VuR25JVUJWcndjYnlXaW1SR2FVejF3dDViMGdLVzE3TUU3MFdHd1Rwak41ZjlSZTFINUs5Y2xEc044YkRaVnZ2ZmFGVGE0dzIyTnlLUUZTZ1NZTGdsa0x4MEdRRHhrQzM3dW56RmtHTTIxUlRHM0NhbEJKM0I3ZUU1bXl0X2lXUVRZWGcxNkFDdG0wVkk3WnVaeGxsNjJIWTdLQWZadFRWTGdqS25ycXVCTDVSNWNPQi1mZ3dWcG05WVMtRUxCYUNwLWtWeHZfNjFPU0xZbEszMFlta3RHVWthQnNLczB1VVVfRHp4R2IwWHF1aUpDMnpGMm5SNFNBWUJnWXpJZUNMVThsVzZqeUdKV1NhcTg0QlhGTHRWbzZzSS1TMHBieWNJdWQtU1AwN2tHSEJoV2RPRVViZGZjOHZWR05ERkFUZGN5OG9WQkJnQVJ2MUpPaEtEMXBzSThNRlQ5M3BEbElVRUJzS1Q0eHJYUVhyVUd2WTVxdmVTM2w4Q1Z0MkZFWU5tOURWd3hLVmtiSFpLaHoyZ1dRMWVfVFpvaHFMaGp1czJ6NWOyAiAxOGQyZTAzYTcxMmY2NTA0MTg2MGU4ZmE3MDRlNjRlZdgC3kPgAvD7IuoCE2h0dHA6Ly93d3cubXNuLmNvbS_yAvgHCghJTVBfREFUQRLrB1X-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgT-PgSmPgTwaIADAIgDAZADAJgDAKADAaoDALADALgDAMADrALIAwDYA5T_EOADAOgDAPgDAYAEAJIEBC90dGqYBACiBAw5Ny43Ny4yNS4xNjKoBKr6CLIECAgAEAAYACAAuAQAwASFvGvIBADaBAIIAQ..&s=a6763ca27c50f6cf4428315ae09b5182fe6b40e6&referrer=http%3A%2F%2Fwww.msn.com%2F&type=nm&nmt=3&pd=7.69&d=39.24&mpx=337&mpy=72&mtx=621&mty=554&sid=1467161073060768213&sw=1366&sh=768&pw=800&ph=6372&ww=800&wh=555&ft=2&sv=42&tv=view5-1&ua=edge&pl=win&x=1467161073060768213,429999,v,win,edge,view5-1,0,,2
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.bing.com/search?q=get+help+with+file+explorer+in+windows+10&form=PRUSEN&mkt=en-us&httpsmsn=1&refig=760c190fcd514a94b52e1920f05ca266&qs=HS&sc=8-0&sp=1&cvid=760c190fcd514a94b52e1920f05ca266
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/search?q=get+help+with+file+explorer+in+windows+10&form=PRUSEN&mkt=en-us&httpsmsn=1&refig=760c190fcd514a94b52e1920f05ca266&qs=HS&sc=8-0&sp=1&cvid=760c190fcd514a94b52e1920f05ca266
+URL requested is: http://otf.msn.com/c.gif?
+Host to connect tootf.msn.com
+Cache MISS on http://otf.msn.com/c.gif?
+URL requested is: http://otf.msn.com/c.gif?rid=760c190fcd514a94b52e1920f05ca266&cts=1467161113739&clid=18D2E03A712F65041860E8FA704E64EE&di=340&mkt=en-us&pn=startpage&su=http%253A%252F%252Fwww.msn.com%252F&pid=startpage&mv=15&cv.product=prime&flightid=ushpcombo30%2Cmuidflt9cf%2Cal-ar-obvnext%2Cfilter-200c%2Cts-hov-bg%2Cip-ct-10%2Cdhp-nopoll%2Cmuidflt51cf%2Csingleappvertt%2Cal-tb-spc%2Cspt-sapems&exa=ushpcombo30%2Cmuidflt9cf%2Cal-ar-obvnext%2Cfilter-200c%2Cts-hov-bg%2Cip-ct-10%2Cdhp-nopoll%2Cmuidflt51cf%2Csingleappvertt%2Cal-tb-spc%2Cspt-sapems&activityId=760c190fcd514a94b52e1920f05ca266&cvs=Browser&subcvs=homepage&evt=unload
+Host to connect tootf.msn.com
+Caching from: http://www.bing.com/search?q=get+help+with+file+explorer+in+windows+10&form=PRUSEN&mkt=en-us&httpsmsn=1&refig=760c190fcd514a94b52e1920f05ca266&qs=HS&sc=8-0&sp=1&cvid=760c190fcd514a94b52e1920f05ca266 para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161113733
+Cache MISS on http://otf.msn.com/c.gif?rid=760c190fcd514a94b52e1920f05ca266&cts=1467161113739&clid=18D2E03A712F65041860E8FA704E64EE&di=340&mkt=en-us&pn=startpage&su=http%253A%252F%252Fwww.msn.com%252F&pid=startpage&mv=15&cv.product=prime&flightid=ushpcombo30%2Cmuidflt9cf%2Cal-ar-obvnext%2Cfilter-200c%2Cts-hov-bg%2Cip-ct-10%2Cdhp-nopoll%2Cmuidflt51cf%2Csingleappvertt%2Cal-tb-spc%2Cspt-sapems&exa=ushpcombo30%2Cmuidflt9cf%2Cal-ar-obvnext%2Cfilter-200c%2Cts-hov-bg%2Cip-ct-10%2Cdhp-nopoll%2Cmuidflt51cf%2Csingleappvertt%2Cal-tb-spc%2Cspt-sapems&activityId=760c190fcd514a94b52e1920f05ca266&cvs=Browser&subcvs=homepage&evt=unload
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+URL requested is: http://www.bing.com/fd/ls/l?IG=D8DF1C6495104B3C963BDB2A0DF5AD8B&Type=Event.CPT&DATA={%22pp%22:{%22S%22:%22L%22,%22FC%22:25,%22BC%22:25,%22H%22:68,%22BP%22:79,%22CT%22:83,%22IL%22:8},%22ad%22:[164,450,788,543,990,2179,0]}&P=SERP&DA=Ch1&MN=SERP
+URL requested is: http://www.bing.com/fd/ls/lsp.aspx?
+Host to connect towww.bing.com
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/fd/ls/lsp.aspx?
+Cache MISS on http://www.bing.com/fd/ls/l?IG=D8DF1C6495104B3C963BDB2A0DF5AD8B&Type=Event.CPT&DATA={%22pp%22:{%22S%22:%22L%22,%22FC%22:25,%22BC%22:25,%22H%22:68,%22BP%22:79,%22CT%22:83,%22IL%22:8},%22ad%22:[164,450,788,543,990,2179,0]}&P=SERP&DA=Ch1&MN=SERP
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.bing.com/rewardsapp/ncheader?ver=8_1_2_4997314&IID=SERP.5420&IG=D8DF1C6495104B3C963BDB2A0DF5AD8B
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/rewardsapp/ncheader?ver=8_1_2_4997314&IID=SERP.5420&IG=D8DF1C6495104B3C963BDB2A0DF5AD8B
+URL requested is: login.live.com:443
+Host to connect tologin.live.com
+Cache MISS on login.live.com:443
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.bing.com/videos/vdasync?w=300&mid=9D64C09700D93F79991E9D64C09700D93F79991E
+Host to connect towww.bing.com
+URL requested is: http://www.bing.com/th?id=OVP.V448ddae3f85043d4d5557d5fd4a3b1d0&w=300&h=168&c=7&rs=1&pid=4.1
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/videos/vdasync?w=300&mid=9D64C09700D93F79991E9D64C09700D93F79991E
+URL requested is: http://www.bing.com/fd/s/mm/vld.gif
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/th?id=OVP.V448ddae3f85043d4d5557d5fd4a3b1d0&w=300&h=168&c=7&rs=1&pid=4.1
+Cache MISS on http://www.bing.com/fd/s/mm/vld.gif
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Caching from: http://www.bing.com/th?id=OVP.V448ddae3f85043d4d5557d5fd4a3b1d0&w=300&h=168&c=7&rs=1&pid=4.1 para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161116758
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.bing.com/videos/vdasync?w=300&mid=FBC1F6EF212B129B756DFBC1F6EF212B129B756D
+Host to connect towww.bing.com
+URL requested is: http://www.bing.com/th?id=OVP.V030f1ee77cacc6448cac4d68dc66ea16&w=300&h=168&c=7&rs=1&pid=4.1
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/th?id=OVP.V030f1ee77cacc6448cac4d68dc66ea16&w=300&h=168&c=7&rs=1&pid=4.1
+Cache MISS on http://www.bing.com/videos/vdasync?w=300&mid=FBC1F6EF212B129B756DFBC1F6EF212B129B756D
+Caching from: http://www.bing.com/th?id=OVP.V030f1ee77cacc6448cac4d68dc66ea16&w=300&h=168&c=7&rs=1&pid=4.1 para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161117309
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.bing.com/fd/ls/GLinkPing.aspx?IG=D8DF1C6495104B3C963BDB2A0DF5AD8B&&ID=SERP,5147.1&url=http%3A%2F%2Fwindows.microsoft.com%2Fen-US%2FWindows-10%2Fgetstarted-whats-changed-in-file-explorer
+Host to connect towww.bing.com
+URL requested is: http://www.bing.com/fd/ls/lsp.aspx
+Host to connect towww.bing.com
+URL requested is: http://windows.microsoft.com/en-US/Windows-10/getstarted-whats-changed-in-file-explorer
+Host to connect towindows.microsoft.com
+Cache MISS on http://www.bing.com/fd/ls/lsp.aspx
+Cache MISS on http://www.bing.com/fd/ls/GLinkPing.aspx?IG=D8DF1C6495104B3C963BDB2A0DF5AD8B&&ID=SERP,5147.1&url=http%3A%2F%2Fwindows.microsoft.com%2Fen-US%2FWindows-10%2Fgetstarted-whats-changed-in-file-explorer
+Cache MISS on http://windows.microsoft.com/en-US/Windows-10/getstarted-whats-changed-in-file-explorer
+Caching from: http://www.bing.com/fd/ls/GLinkPing.aspx?IG=D8DF1C6495104B3C963BDB2A0DF5AD8B&&ID=SERP,5147.1&url=http%3A%2F%2Fwindows.microsoft.com%2Fen-US%2FWindows-10%2Fgetstarted-whats-changed-in-file-explorer para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161121555
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: support.microsoft.com:443
+Host to connect tosupport.microsoft.com
+Cache MISS on support.microsoft.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: support.microsoft.com:443
+Host to connect tosupport.microsoft.com
+Cache MISS on support.microsoft.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: support.microsoft.com:443
+Host to connect tosupport.microsoft.com
+Cache MISS on support.microsoft.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.bing.com/search?q=get+help+with+file+explorer+in+windows+10&form=PRUSEN&mkt=en-us&httpsmsn=1&refig=760c190fcd514a94b52e1920f05ca266&qs=HS&sc=8-0&sp=1&cvid=760c190fcd514a94b52e1920f05ca266
+Host to connect towww.bing.com
+Cache HIT http://www.bing.com/search?q=get+help+with+file+explorer+in+windows+10&form=PRUSEN&mkt=en-us&httpsmsn=1&refig=760c190fcd514a94b52e1920f05ca266&qs=HS&sc=8-0&sp=1&cvid=760c190fcd514a94b52e1920f05ca266 returning cache to user
+URL requested is: http://www.bing.com/fd/ls/l?IG=D8DF1C6495104B3C963BDB2A0DF5AD8B&Type=Event.CPT&DATA={%22pp%22:{%22S%22:%22L%22,%22FC%22:28,%22BC%22:29,%22H%22:64,%22BP%22:76,%22CT%22:82,%22IL%22:8},%22ad%22:[164,450,788,543,990,2179,2]}&P=SERP&DA=Ch1&MN=SERP
+Host to connect towww.bing.com
+URL requested is: http://www.bing.com/fd/ls/lsp.aspx?
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/fd/ls/l?IG=D8DF1C6495104B3C963BDB2A0DF5AD8B&Type=Event.CPT&DATA={%22pp%22:{%22S%22:%22L%22,%22FC%22:28,%22BC%22:29,%22H%22:64,%22BP%22:76,%22CT%22:82,%22IL%22:8},%22ad%22:[164,450,788,543,990,2179,2]}&P=SERP&DA=Ch1&MN=SERP
+Cache MISS on http://www.bing.com/fd/ls/lsp.aspx?
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.bing.com/rewardsapp/ncheader?ver=8_1_2_4997314&IID=SERP.5420&IG=D8DF1C6495104B3C963BDB2A0DF5AD8B
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/rewardsapp/ncheader?ver=8_1_2_4997314&IID=SERP.5420&IG=D8DF1C6495104B3C963BDB2A0DF5AD8B
+URL requested is: login.live.com:443
+Host to connect tologin.live.com
+Cache MISS on login.live.com:443
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.bing.com/fd/ls/lsp.aspx
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/fd/ls/lsp.aspx
+URL requested is: http://signup.eleisure.net/utai.php
+Host to connect tosignup.eleisure.net
+Cache MISS on http://signup.eleisure.net/utai.php
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://signup.eleisure.net/style.css
+Host to connect tosignup.eleisure.net
+URL requested is: http://signup.eleisure.net/images/bg.gif
+Host to connect tosignup.eleisure.net
+Cache MISS on http://signup.eleisure.net/style.css
+Cache MISS on http://signup.eleisure.net/images/bg.gif
+URL requested is: urs.microsoft.com:443
+Host to connect tours.microsoft.com
+Cache MISS on urs.microsoft.com:443
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://signup.eleisure.net/images/bg.gif
+Host to connect tosignup.eleisure.net
+Cache MISS on http://signup.eleisure.net/images/bg.gif
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+URL requested is: urs.microsoft.com:443
+Host to connect tours.microsoft.com
+Cache MISS on urs.microsoft.com:443
+URL requested is: http://www.bing.com/fd/ls/lsp.aspx
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/fd/ls/lsp.aspx
+URL requested is: http://www.bing.com/fd/ls/lsp.aspx
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/fd/ls/lsp.aspx
+URL requested is: mtalk.google.com:5228
+Host to connect tomtalk.google.com
+Cache MISS on mtalk.google.com:5228
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Cache MISS on www.googleapis.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: accounts.google.com:443
+Host to connect toaccounts.google.com
+URL requested is: http://www.bing.com/fd/ls/lsp.aspx
+Host to connect towww.bing.com
+Cache MISS on accounts.google.com:443
+Cache MISS on http://www.bing.com/fd/ls/lsp.aspx
+URL requested is: safebrowsing.google.com:443
+Host to connect tosafebrowsing.google.com
+URL requested is: translate.googleapis.com:443
+Host to connect totranslate.googleapis.com
+URL requested is: clients4.google.com:443
+Host to connect toclients4.google.com
+URL requested is: mtalk.google.com:5228
+Host to connect tomtalk.google.com
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+Cache MISS on www.googleapis.com:443
+Cache MISS on mtalk.google.com:5228
+Cache MISS on safebrowsing.google.com:443
+Cache MISS on translate.googleapis.com:443
+Cache MISS on clients4.google.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: www.google.com:443
+Host to connect towww.google.com
+Cache MISS on www.google.com:443
+URL requested is: www.google.com:443
+Host to connect towww.google.com
+Cache MISS on www.google.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: docs.google.com:443
+Host to connect todocs.google.com
+Cache MISS on docs.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.google.com:443
+Host to connect towww.google.com
+Cache MISS on www.google.com:443
+URL requested is: docs.google.com:443
+Host to connect todocs.google.com
+Cache MISS on docs.google.com:443
+URL requested is: www.google.com:443
+Host to connect towww.google.com
+URL requested is: www.google.com:443
+Host to connect towww.google.com
+Cache MISS on www.google.com:443
+Cache MISS on www.google.com:443
+URL requested is: www.google.com:443
+Host to connect towww.google.com
+Cache MISS on www.google.com:443
+URL requested is: www.facebook.com:443
+Host to connect towww.facebook.com
+Cache MISS on www.facebook.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: www.facebook.com:443
+Host to connect towww.facebook.com
+Cache MISS on www.facebook.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+URL requested is: uib.ff.avast.com:443
+Host to connect touib.ff.avast.com
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+Cache MISS on ssl.gstatic.com:443
+Cache MISS on uib.ff.avast.com:443
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: www.facebook.com:443
+Host to connect towww.facebook.com
+Cache MISS on www.facebook.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: www.facebook.com:443
+Host to connect towww.facebook.com
+Cache MISS on www.facebook.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: docs.google.com:443
+Host to connect todocs.google.com
+Cache MISS on docs.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+Caching from: http://www.bing.com/rewardsapp/ncheader?ver=8_1_2_4997314&IID=SERP.5420&IG=D8DF1C6495104B3C963BDB2A0DF5AD8B para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161185321
+URL requested is: http://www.bing.com/fd/ls/lsp.aspx
+Host to connect towww.bing.com
+Cache MISS on http://www.bing.com/fd/ls/lsp.aspx
+Reading response ERRORjava.net.SocketException: Connection reset
+Caching from: http://www.bing.com/fd/ls/lsp.aspx? para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161185745
+URL requested is: accounts.google.com:443
+Host to connect toaccounts.google.com
+Cache MISS on accounts.google.com:443
+URL requested is: safebrowsing.google.com:443
+Host to connect tosafebrowsing.google.com
+URL requested is: translate.googleapis.com:443
+Host to connect totranslate.googleapis.com
+URL requested is: clients4.google.com:443
+Host to connect toclients4.google.com
+Cache MISS on safebrowsing.google.com:443
+Cache MISS on translate.googleapis.com:443
+Cache MISS on clients4.google.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+URL requested is: docs.google.com:443
+Host to connect todocs.google.com
+Cache MISS on www.googleapis.com:443
+Cache MISS on docs.google.com:443
+URL requested is: accounts.google.com:443
+Host to connect toaccounts.google.com
+Cache MISS on accounts.google.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+Caching from: http://www.bing.com/fd/ls/lsp.aspx para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161192064
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.bing.com/fd/ls/lsp.aspx
+Host to connect towww.bing.com
+Cache HIT http://www.bing.com/fd/ls/lsp.aspx returning cache to user
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: http://www.bing.com/fd/ls/lsp.aspx
+Host to connect towww.bing.com
+Cache HIT http://www.bing.com/fd/ls/lsp.aspx returning cache to user
+URL requested is: www.facebook.com:443
+Host to connect towww.facebook.com
+Cache MISS on www.facebook.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.bing.com/fd/ls/lsp.aspx
+Host to connect towww.bing.com
+Cache HIT http://www.bing.com/fd/ls/lsp.aspx returning cache to user
+URL requested is: http://www.bing.com/fd/ls/lsp.aspx
+Host to connect towww.bing.com
+Cache HIT http://www.bing.com/fd/ls/lsp.aspx returning cache to user
+URL requested is: mtalk.google.com:443
+Host to connect tomtalk.google.com
+Cache MISS on mtalk.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+Caching from: http://www.bing.com/fd/ls/lsp.aspx para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161213883
+Reading response ERRORjava.net.SocketException: Connection reset
+Caching from: http://www.bing.com/fd/ls/lsp.aspx para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161215923
+Reading response ERRORjava.net.SocketException: Connection reset
+Caching from: http://www.bing.com/fd/ls/lsp.aspx para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161220602
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: accounts.google.com:443
+Host to connect toaccounts.google.com
+Cache MISS on accounts.google.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+Caching from: http://www.bing.com/fd/ls/lsp.aspx para C:\Users\Arpitha\Desktop\Web Proxy Server\src\cache\cached@_1467161245817
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: accounts.google.com:443
+Host to connect toaccounts.google.com
+Cache MISS on accounts.google.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: mtalk.google.com:5228
+Host to connect tomtalk.google.com
+Cache MISS on mtalk.google.com:5228
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: accounts.google.com:443
+Host to connect toaccounts.google.com
+Cache MISS on accounts.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: clients4.google.com:443
+Host to connect toclients4.google.com
+Cache MISS on clients4.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: nexus.officeapps.live.com:443
+Host to connect tonexus.officeapps.live.com
+Cache MISS on nexus.officeapps.live.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: accounts.google.com:443
+Host to connect toaccounts.google.com
+Cache MISS on accounts.google.com:443
+URL requested is: mtalk.google.com:443
+Host to connect tomtalk.google.com
+Cache MISS on mtalk.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: clients4.google.com:443
+Host to connect toclients4.google.com
+Cache MISS on clients4.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: safebrowsing.google.com:443
+Host to connect tosafebrowsing.google.com
+Cache MISS on safebrowsing.google.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: alt1-safebrowsing.google.com:443
+Host to connect toalt1-safebrowsing.google.com
+Cache MISS on alt1-safebrowsing.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: http://www.hhdsoftware.com/dispatch/hex/checkforupdates
+Host to connect towww.hhdsoftware.com
+Cache MISS on http://www.hhdsoftware.com/dispatch/hex/checkforupdates
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+URL requested is: http://www.hhdsoftware.com/Changes/product/hex-editor
+Host to connect towww.hhdsoftware.com
+Cache MISS on http://www.hhdsoftware.com/Changes/product/hex-editor
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.hhdsoftware.com/dispatch/hex/checkforupdates
+Host to connect towww.hhdsoftware.com
+Cache MISS on http://www.hhdsoftware.com/dispatch/hex/checkforupdates
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://www.hhdsoftware.com/Changes/product/hex-editor
+Host to connect towww.hhdsoftware.com
+Cache MISS on http://www.hhdsoftware.com/Changes/product/hex-editor
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: clients4.google.com:443
+Host to connect toclients4.google.com
+Cache MISS on clients4.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: safebrowsing.google.com:443
+Host to connect tosafebrowsing.google.com
+Cache MISS on safebrowsing.google.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: clients2.google.com:443
+Host to connect toclients2.google.com
+Cache MISS on clients2.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: clients4.google.com:443
+Host to connect toclients4.google.com
+Cache MISS on clients4.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: http://ssw.live.com/UploadData.aspx
+Host to connect tossw.live.com
+Cache MISS on http://ssw.live.com/UploadData.aspx
+URL requested is: http://clients2.google.com/service/update2?cup2key=6:2394890952&cup2hreq=a1261f0e2fa06b269d9ae4f12d39da08715164a3e993f5d530c14b178d73d39b
+Host to connect toclients2.google.com
+Cache MISS on http://clients2.google.com/service/update2?cup2key=6:2394890952&cup2hreq=a1261f0e2fa06b269d9ae4f12d39da08715164a3e993f5d530c14b178d73d39b
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: safebrowsing.google.com:443
+Host to connect tosafebrowsing.google.com
+Cache MISS on safebrowsing.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: alt1-safebrowsing.google.com:443
+Host to connect toalt1-safebrowsing.google.com
+Cache MISS on alt1-safebrowsing.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: mtalk.google.com:5228
+Host to connect tomtalk.google.com
+Cache MISS on mtalk.google.com:5228
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: clients4.google.com:443
+Host to connect toclients4.google.com
+Cache MISS on clients4.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: www.googleapis.com:443
+Host to connect towww.googleapis.com
+Cache MISS on www.googleapis.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: accounts.google.com:443
+Host to connect toaccounts.google.com
+Cache MISS on accounts.google.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: roaming.officeapps.live.com:443
+Host to connect toroaming.officeapps.live.com
+Cache MISS on roaming.officeapps.live.com:443
+URL requested is: ols.officeapps.live.com:443
+Host to connect tools.officeapps.live.com
+URL requested is: templateservice.office.com:443
+Host to connect totemplateservice.office.com
+Cache MISS on ols.officeapps.live.com:443
+Cache MISS on templateservice.office.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: nexus.officeapps.live.com:443
+Host to connect tonexus.officeapps.live.com
+Cache MISS on nexus.officeapps.live.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: roaming.officeapps.live.com:443
+Host to connect toroaming.officeapps.live.com
+Cache MISS on roaming.officeapps.live.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: nexus.officeapps.live.com:443
+Host to connect tonexus.officeapps.live.com
+Cache MISS on nexus.officeapps.live.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: nexus.officeapps.live.com:443
+Host to connect tonexus.officeapps.live.com
+URL requested is: store.office.com:443
+Host to connect tostore.office.com
+Cache MISS on nexus.officeapps.live.com:443
+URL requested is: store.office.com:443
+Host to connect tostore.office.com
+Cache MISS on store.office.com:443
+Cache MISS on store.office.com:443
+URL requested is: login.live.com:443
+Host to connect tologin.live.com
+Cache MISS on login.live.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: login.live.com:443
+Host to connect tologin.live.com
+Cache MISS on login.live.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: login.live.com:443
+Host to connect tologin.live.com
+Cache MISS on login.live.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: store.office.com:443
+Host to connect tostore.office.com
+Cache MISS on store.office.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: nexusrules.officeapps.live.com:443
+Host to connect tonexusrules.officeapps.live.com
+Cache MISS on nexusrules.officeapps.live.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: nexusrules.officeapps.live.com:443
+Host to connect tonexusrules.officeapps.live.com
+Cache MISS on nexusrules.officeapps.live.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: ssl.gstatic.com:443
+Host to connect tossl.gstatic.com
+Cache MISS on ssl.gstatic.com:443
+URL requested is: http://www.bing.com/fd/ls/lsp.aspx
+Host to connect towww.bing.com
+Cache HIT http://www.bing.com/fd/ls/lsp.aspx returning cache to user
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+Request Linejava.net.SocketException: Connection resetnot read || ERROR ||
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: directory.services.live.com:443
+Host to connect todirectory.services.live.com
+Cache MISS on directory.services.live.com:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: nexus.officeapps.live.com:443
+Host to connect tonexus.officeapps.live.com
+Cache MISS on nexus.officeapps.live.com:443
+URL requested is: nexus.officeapps.live.com:443
+Host to connect tonexus.officeapps.live.com
+Cache MISS on nexus.officeapps.live.com:443
+URL requested is: roaming.officeapps.live.com:443
+Host to connect toroaming.officeapps.live.com
+Cache MISS on roaming.officeapps.live.com:443
+URL requested is: http://cdn.odc.officeapps.live.com/odc/stat/images/sm/onedrive_32_1.png
+Host to connect tocdn.odc.officeapps.live.com
+Cache MISS on http://cdn.odc.officeapps.live.com/odc/stat/images/sm/onedrive_32_1.png
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://cdn.odc.officeapps.live.com/odc/stat/images/sm/onedrive_16_1.png
+Host to connect tocdn.odc.officeapps.live.com
+URL requested is: http://cdn.odc.officeapps.live.com/odc/stat/images/sm/onedrive_16_1.png
+Host to connect tocdn.odc.officeapps.live.com
+Cache MISS on http://cdn.odc.officeapps.live.com/odc/stat/images/sm/onedrive_16_1.png
+Cache MISS on http://cdn.odc.officeapps.live.com/odc/stat/images/sm/onedrive_16_1.png
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: http://cdn.odc.officeapps.live.com/odc/stat/images/sm/sharepoint_16_1.png
+Host to connect tocdn.odc.officeapps.live.com
+URL requested is: http://cdn.odc.officeapps.live.com/odc/stat/images/sm/youtube_16_1.png
+Host to connect tocdn.odc.officeapps.live.com
+URL requested is: http://cdn.odc.officeapps.live.com/odc/stat/images/sm/onedrive_16_1.png
+Host to connect tocdn.odc.officeapps.live.com
+Cache MISS on http://cdn.odc.officeapps.live.com/odc/stat/images/sm/sharepoint_16_1.png
+Cache MISS on http://cdn.odc.officeapps.live.com/odc/stat/images/sm/youtube_16_1.png
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+Cache MISS on http://cdn.odc.officeapps.live.com/odc/stat/images/sm/onedrive_16_1.png
+URL requested is: http://cdn.odc.officeapps.live.com/odc/stat/images/sm/sharepoint_16_1.png
+Host to connect tocdn.odc.officeapps.live.com
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+URL requested is: p.pfx.ms:443
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+Host to connect top.pfx.ms
+URL requested is: http://cdn.odc.officeapps.live.com/odc/stat/images/sm/onedrive_16_1.png
+Host to connect tocdn.odc.officeapps.live.com
+Cache MISS on http://cdn.odc.officeapps.live.com/odc/stat/images/sm/sharepoint_16_1.png
+Cache MISS on http://cdn.odc.officeapps.live.com/odc/stat/images/sm/onedrive_16_1.png
+ERROR writing response to Clientjava.net.SocketException: Software caused connection abort: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+Reading response ERRORjava.net.SocketException: Connection reset
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+Cache MISS on p.pfx.ms:443
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+Reading response ERRORjava.net.SocketException: Connection reset
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: templateservice.office.com:443
+Host to connect totemplateservice.office.com
+Cache MISS on templateservice.office.com:443
+Cache MISS on p.pfx.ms:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+Reading response ERRORjava.net.SocketException: Connection reset
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+Cache MISS on p.pfx.ms:443
+Reading response ERRORjava.net.SocketException: Connection reset
+URL requested is: p.pfx.ms:443
+Host to connect top.pfx.ms
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Cache MISS on p.pfx.ms:443
+Cache MISS on p.pfx.ms:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Cache MISS on p.pfx.ms:443
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+Reading response ERRORjava.net.SocketException: Connection reset
+ERROR writing response to Clientjava.net.SocketException: Connection reset by peer: socket write error
+URL requested is: nexus.officeapps.live.com:443
+Host to connect tonexus.officeapps.live.com
+Cache MISS on nexus.officeapps.live.com:443
+URL requested is: http://ssw.live.com/UploadData.aspx
+Host to connect tossw.live.com
+Cache MISS on http://ssw.live.com/UploadData.aspx
